@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <title>Student Class Management</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Student Class Management</h1>
+        <form method="POST">
+            <label for="num_class">Enter the number of classes:</label>
+            <input type="number" id="num_class" name="num_class" required min="1" max="2">
+            <button type="button" onclick="generateStudentInputs()">Next</button>
+            <div id="studentInputs"></div>
+            <button type="submit">Submit</button>
+        </form>
+
+        {% if combined_class %}
+            <h2>The Students of First Class:</h2>
+            <ul>
+                {% for student in first_class %}
+                    <li>{{ student }}</li>
+                {% endfor %}
+            </ul>
+
+            <h2>The Students of Second Class:</h2>
+            <ul>
+                {% for student in second_class %}
+                    <li>{{ student }}</li>
+                {% endfor %}
+            </ul>
+
+            <h2>All Students in the Department:</h2>
+            <ul>
+                {% for student in combined_class %}
+                    <li>{{ student }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+
+    <script>
+        function generateStudentInputs() {
+            const numClass = document.getElementById('num_class').value;
+            const studentInputsDiv = document.getElementById('studentInputs');
+            studentInputsDiv.innerHTML = '';
+
+            for (let j = 0; j < numClass; j++) {
+                const numStudents = document.createElement('input');
+                numStudents.type = 'number';
+                numStudents.name = `num_students_${j}`;
+                numStudents.placeholder = `Enter number of students in class ${j + 1}`;
+                numStudents.required = true;
+                studentInputsDiv.appendChild(numStudents);
+
+                const studentContainer = document.createElement('div');
+                studentContainer.id = `studentContainer_${j}`;
+                studentInputsDiv.appendChild(studentContainer);
+
+                numStudents.addEventListener('change', function() {
+                    const num = parseInt(numStudents.value);
+                    studentContainer.innerHTML = ''; // Clear previous inputs
+                    for (let i = 0; i < num; i++) {
+                        const studentName = document.createElement('input');
+                        studentName.type = 'text';
+                        studentName.name = `student_${j}_${i}`;
+                        studentName.placeholder = `Enter name of student ${i + 1} in class ${j + 1}`;
+                        studentContainer.appendChild(studentName);
+                    }
+                });
+            }
+        }
+    </script>
+</body>
+</html>
