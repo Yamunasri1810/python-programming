@@ -2,6 +2,9 @@
 
 𝗜𝗡𝗧𝗘𝗥𝗡𝗦𝗛𝗜𝗣 𝗖𝗨𝗠 𝗦𝗞𝗜𝗟𝗟 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗘 𝗢𝗡 𝗣𝗬𝗧𝗛𝗢𝗡 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 in MSME, TDC, CHennai
 
+![image](https://github.com/user-attachments/assets/04c078ba-e3d2-45f9-9d30-a2ad0db9978d)
+
+
 𝗪𝗲𝗲𝗸 𝟭 𝗘𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗣𝘆𝘁𝗵𝗼𝗻 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗮𝗹𝘀
 
 In the first week of the MSME Internship cum Skill Development Programme, we built a strong foundation in Python by exploring key concepts and applying them through hands-on exercises.
