@@ -45,4 +45,4 @@ Day 14 – Studied Dunder (Magic) Methods for operator overloading, polymorphism
 
 Day 15 – Transitioned into web development with Flask, learning how to connect HTML, CSS, and Flask. Explored @app.route('/') and built dynamic web applications.
 
-This week reinforced my Python OOP concepts while introducing web development fundamentals. Excited for more hands-on learning ahead! 🚀
+This week reinforced my Python OOP concepts while introducing web development fundamentals.
