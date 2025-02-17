@@ -46,3 +46,22 @@ Day 14 – Studied Dunder (Magic) Methods for operator overloading, polymorphism
 Day 15 – Transitioned into web development with Flask, learning how to connect HTML, CSS, and Flask. Explored @app.route('/') and built dynamic web applications.
 
 This week reinforced my Python OOP concepts while introducing web development fundamentals.
+
+# Week 4 Advancing in Python & Web Development! 
+
+Day 17: Entrepreneurship & Financial Literacy
+Discussed the mindset of employees vs. employers, financial management, investment strategies, and government schemes that support innovation and startups.
+
+Day 18: Flask & CSS Fundamentals
+Learned how to integrate HTML, CSS, and Flask, focusing on Flask methods, class & ID usage in CSS, and fundamental styling concepts.
+
+Day 19: Hands-on with HTML & Flask
+Built a calculator web application using HTML and Flask, reinforcing front-end and back-end integration skills.
+
+Day 20: Navigating Between Web Pages
+Explored how to connect multiple HTML files within a Flask application, navigate between pages, and dynamically display user inputs.
+
+Day 21: Hotel Menu Project
+Worked on a hotel menu web application, integrating it with Flask for a real-world understanding of web development.
+
+An exciting and insightful week! 
