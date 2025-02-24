@@ -31,7 +31,7 @@ Day 8 & 9: Transitioned into web development with Flask, working on projects suc
 
 This week strengthened our grasp of Python's data-handling capabilities while introducing us to dynamic web application development.
 
-# 𝗪𝗲𝗲𝗸 𝟯 𝗔𝗱𝘃𝗮𝗻𝗰𝗶𝗻𝗴 𝗣𝘆𝘁𝗵𝗼𝗻 & 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+# 𝗪𝗲𝗲𝗸 𝟯 Object Oriented Programming Fundamentals
 
 This week at the MSME TDC Internship, I explored key Python and web development concepts:
 
@@ -47,7 +47,7 @@ Day 15 – Transitioned into web development with Flask, learning how to connect
 
 This week reinforced my Python OOP concepts while introducing web development fundamentals.
 
-# Week 4 Advancing in Python & Web Development! 
+# Week 4 Hands-on in Web Development! 
 
 Day 17: Entrepreneurship & Financial Literacy
 Discussed the mindset of employees vs. employers, financial management, investment strategies, and government schemes that support innovation and startups.
@@ -65,3 +65,20 @@ Day 21: Hotel Menu Project
 Worked on a hotel menu web application, integrating it with Flask for a real-world understanding of web development.
 
 An exciting and insightful week! 
+
+# Week 5 Mastering Python Concepts and Data Visualization
+
+**Python Essentials:**
+
+Lambda Functions: Simplifying code with concise, one-line functions.
+Recursion: Solving complex problems by breaking them into smaller subproblems.
+Argument Unpacking: Using *args and **kwargs for flexible, reusable functions.
+
+**NumPy & Data Visualization:**
+
+Mastered essential NumPy methods like sort(), copy(), max(), and add() for numerical computing.
+Gained hands-on experience with Matplotlib, customizing pie charts, bar charts, and enhancing visualizations with color and style.
+
+This week’s deep dive into Python and data manipulation strengthened my foundation, and I’m excited to keep learning and applying these skills! 🚀
+
+
