@@ -81,4 +81,25 @@ Gained hands-on experience with Matplotlib, customizing pie charts, bar charts, 
 
 This week’s deep dive into Python and data manipulation strengthened my foundation, and I’m excited to keep learning and applying these skills! 🚀
 
+# Week 6 Exploring Arduino Programming & Hardware Fundamentals
+
+This week, we explored Arduino programming and hardware integration using Python with the PyFirmata library. I gained hands-on experience with:
+
+**Arduino & Hardware Basics:**
+
+Board architecture and component connections
+Python and C programming for hardware control
+
+**Sensor Integration:**
+
+Infrared sensors for object detection
+Touch sensors for interactive systems
+
+**Hands-On Projects:**
+
+Built a traffic light system with LEDs and Arduino
+Experimented with sensor-based hardware setups
+Explored Raspberry Pi for embedded applications
+This experience deepened my understanding of embedded systems and IoT applications — excited to leverage these skills in future projects! 🚀
+
 
